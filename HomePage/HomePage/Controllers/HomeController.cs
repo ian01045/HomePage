@@ -8,7 +8,7 @@ namespace HomePage.Controllers
 {
     public class HomeController : Controller
     {
-        //123 456  123  123  123 11  22 master  mm RR aaa
+        //123 456  123  123  123 11  22 master  mm RR aaa master
         // GET: Home
         public ActionResult Index()
         {
